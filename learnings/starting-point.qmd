@@ -1,0 +1,8 @@
+---
+title: Starting point
+date: 2023-11-15
+# categories: [lessons learned]
+image: ../images/profile.png
+---
+
+I am inspired more than ever to dive into deep learning.

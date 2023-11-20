@@ -2,8 +2,13 @@ project:
   type: website
 
 website:
-  title: "blog"
+  title: "Muhammad Abdullahi"
   navbar:
+    left:
+      - text: Posts
+        file: index.qmd
+      - projects.qmd
+      - learnings/index.qmd
     right:
       - about.qmd
       - icon: github

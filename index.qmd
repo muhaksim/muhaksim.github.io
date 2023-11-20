@@ -1,14 +1,28 @@
 ---
-title: "blog"
+# title: "blog"
 listing:
-  contents: posts
+  contents: [posts, posts.yml]
   sort: "date desc"
-  type: default
+  # type: default
+  fields: [date, title, image, description, categories]
+  feed: true
   categories: true
   sort-ui: false
   filter-ui: false
-page-layout: full
-title-block-banner: true
+  date-format: YYYY-MM-DD
+comments: false
+description: Recent posts of Muhammad Abdullahi
+pagetitle: Muhammad Abdullahi
+# page-layout: full
+# title-block-banner: true
 ---
 
+<h1 style="margin-botom: 2rem !important">
 
+I am Muhammad
+
+</h1>
+
+I am a software engineer interested in AI.
+
+This is where I try to share lessons learned during my journey in learning AI / Deep learning.
