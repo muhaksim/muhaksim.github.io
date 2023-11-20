@@ -2,9 +2,13 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/tijaabo/index.html",
       "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/learnings/index.html",
+    "items": [
+      "/learnings/starting-point.html"
     ]
   }
 ]
